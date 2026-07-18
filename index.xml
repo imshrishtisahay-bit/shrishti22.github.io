@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UI/UX Portfolio</title><link>https://imshrishtisahay-bit.github.io/shrishti22.github.io/</link><description>Recent content on UI/UX Portfolio</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://imshrishtisahay-bit.github.io/shrishti22.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Design Guidelines</title><link>https://imshrishtisahay-bit.github.io/shrishti22.github.io/design-guidelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://imshrishtisahay-bit.github.io/shrishti22.github.io/design-guidelines/</guid><description>&lt;h1 id="design-guidelines">Design guidelines&lt;/h1>
+&lt;h2 id="typography">Typography&lt;/h2>
+&lt;ul>
+&lt;li>Use clear, readable sans-serif type for body content&lt;/li>
+&lt;li>Keep headings prominent and concise&lt;/li>
+&lt;li>Maintain strong contrast for accessibility&lt;/li>
+&lt;/ul>
+&lt;h2 id="color">Color&lt;/h2>
+&lt;ul>
+&lt;li>Favor calm, modern neutrals with a strong accent color&lt;/li>
+&lt;li>Use color intentionally to guide attention and create hierarchy&lt;/li>
+&lt;/ul>
+&lt;h2 id="spacing">Spacing&lt;/h2>
+&lt;ul>
+&lt;li>Keep spacing consistent across sections and cards&lt;/li>
+&lt;li>Use generous padding on mobile to improve readability&lt;/li>
+&lt;/ul>
+&lt;h2 id="interaction">Interaction&lt;/h2>
+&lt;ul>
+&lt;li>Make buttons and links obvious and easy to tap&lt;/li>
+&lt;li>Support keyboard navigation and clear focus states&lt;/li>
+&lt;/ul></description></item></channel></rss>
